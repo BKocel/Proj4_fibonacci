@@ -24,4 +24,5 @@ lenght = int(input("Jaką długość ma mieć ciąg? :"))
 if lenght <1:
     print("Niepoprawna wartość, spróbój ponownie!")
 else:
+    lenght = lenght - 3
     fibonacci(lenght)
