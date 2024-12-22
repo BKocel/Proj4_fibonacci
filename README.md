@@ -8,5 +8,8 @@ Program generuje wybraną przez użytkownika długość ciągu fibonacciego.
 2. **string* - typ *list*, przechowuje kolejne liczby ciągu.
 
 #### Najważniejsze funkcje:
-1. Funkcja ***fibonacci*** - 
+1. Funkcja ***fibonacci*** zawarta w programie, odpowiada na generację wyznaczonej przez użytkownika ilości liczb z ciągu fibonacciego.
+
+#### Działanie programu:
+
 
