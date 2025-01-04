@@ -11,5 +11,12 @@ Program generuje wybraną przez użytkownika długość ciągu fibonacciego.
 1. Funkcja ***fibonacci*** zawarta w programie, odpowiada na generację wyznaczonej przez użytkownika ilości liczb z ciągu fibonacciego.
 
 #### Działanie programu:
-
+Po uruchomieniu program pyta użytkownika o długość ciągu fibonacciego, po czym wypisuje kolejne liczby ciągu fibonacciego\
+Przykładowo: 
+```
+Witaj w generatorze ciągu liczb Fibonacciego
+Jaką długość ma mieć ciąg? :8
+Generowanie ciągu, proszę czekać....
+1 1 2 3 5 8 13 21
+```
 
